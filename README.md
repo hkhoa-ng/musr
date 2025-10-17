@@ -1,7 +1,3 @@
-# Master Thesis
-
-This is the implementation of the new and improved ALAS model for enhancing user stories' quality by Khoa Nguyen @ Tampere University.
-
 # Instruction for running the Docker container
 
 - Clone this repository.
