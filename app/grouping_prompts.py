@@ -8,10 +8,10 @@ Please always use this RAG model to best understand the user story, and group th
 
 Instructions:
 1. Analyze the user stories and group them based on:
-  - Similar functionality or goals.
-  - Common themes or keywords.
-  - Dependency relationships.
-  - Or any other logical grouping that you identify.
+   - Similar functionality or goals.
+   - Common themes or keywords.
+   - Dependency relationships.
+   - Or any other logical grouping that you identify.
 
 2. Label each group with a short, descriptive name that reflects the shared theme or purpose.
 

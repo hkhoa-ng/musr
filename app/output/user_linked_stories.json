@@ -1,0 +1,62 @@
+[
+  {
+    "user_story": "US1",
+    "related_tickets": ["ALF-502"],
+    "feature": "Data Privacy and User Control",
+    "description": "Users have total control over their personal data, including sharing and deletion options."
+  },
+  {
+    "user_story": "US2",
+    "related_tickets": ["ALF-101"],
+    "feature": "Speech recognition & interface",
+    "description": "Recognizes and response to user commands, including voice activation, push-to-talk, wake-word activation. Ensure the system responds to the user's voice when asked."
+  },
+  {
+    "user_story": "US3",
+    "related_tickets": ["ALF-101"],
+    "feature": "Speech recognition & interface",
+    "description": "User can set ALFRED to respond to their specific voice only"
+  },
+  {
+    "user_story": "US4",
+    "related_tickets": ["ALF-501", "ALF-104"],
+    "feature": "Accessibility features",
+    "description": "Customizable settings for users with visual or hearing impairments, contrast adjustment, tactile sensory control & feedback, visual indicator options."
+  },
+  {
+    "user_story": "US5",
+    "related_tickets": ["ALF-302", "ALF-301"],
+    "feauture": "Emergency response system",
+    "description": "Detect emergency situations with vital sensors and alert caregivers, including fall detection and alerting caregivers."
+  },
+  {
+    "user_story": "US6",
+    "related_tickets": ["ALF-303"],
+    "feature": "Medication reminders",
+    "description": "Remind users to take their medication on time, including alerts for missed doses."
+  },
+  {
+    "user_story": "US7",
+    "related_tickets": ["ALF-300", "ALF-302"],
+    "feature": "Health monitoring - Falls detection",
+    "description": "Monitor users' health and alert caregivers in case of emergencies, including fall detection and alerting caregivers."
+  },
+  {
+    "user_story": "US8",
+    "related_tickets": ["ALF-200", "ALF-202"],
+    "feature": "Communication and social interaction",
+    "description": "Facilitate communication with family and friends, including video calls, messaging, and social media integration."
+  },
+  {
+    "user_story": "US9",
+    "related_tickets": ["ALF-300", "ALF-301", "ALF-304"],
+    "feature": "Health monitoring for caregivers",
+    "description": "Provide caregivers with real-time health data and alerts for their loved ones, including vital signs and activity levels."
+  },
+  {
+    "user_story": "US10",
+    "related_tickets": ["ALF-503"],
+    "feature": "Marketplace for third-party apps",
+    "description": "Allow developers to create and sell apps for ALFRED, including a marketplace for third-party apps. With well defined APIs and SDKs, developers can create apps that integrate with ALFRED's features and services."
+  }
+]

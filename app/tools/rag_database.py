@@ -105,22 +105,12 @@ from langchain_openai import OpenAIEmbeddings
 import os
 
 # Get the key from OPENAI_API_KEY file
-# Replace the current file reading code with this:
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-API_KEY_PATH = os.path.join(SCRIPT_DIR, "OPENAI_API_KEY")
-
-try:
-    with open(API_KEY_PATH, "r") as f:
+if os.path.exists("OPENAI_API_KEY"):
+    with open("OPENAI_API_KEY", "r") as f:
         OPENAI_API_KEY = f.read().strip()
-except FileNotFoundError:
-    # Fallback to parent directory
-    API_KEY_PATH = os.path.join(os.path.dirname(SCRIPT_DIR), "OPENAI_API_KEY")
-    try:
-        with open(API_KEY_PATH, "r") as f:
-            OPENAI_API_KEY = f.read().strip()
-    except FileNotFoundError:
-        # If still not found, try environment variable
-        OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+else:
+    # If the file does not exist, check the environment variable
+    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY environment variable is not set")

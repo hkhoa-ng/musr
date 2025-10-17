@@ -33,7 +33,7 @@ def get_related_context(query_text: str):
 
 def main():
     result = get_related_context(
-        "Please provide context about the product TimeCrafter, its functionalities, and the target audience to help in grouping the user stories effectively."
+        "Please provide context about the product ALFRED, its functionalities, and the target audience to help in grouping the user stories effectively."
     )
     print(type(result))
     print(result)

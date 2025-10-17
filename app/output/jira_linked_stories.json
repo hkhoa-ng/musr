@@ -2,77 +2,79 @@
     {
         "user_story": "US1",
         "related_tickets": [
-            "TICKET22",
-            "TICKET23"
+            "ALF-502"
         ],
-        "feature": "Task Progress Tracking and Timeline Management",
-        "description": "This user story is linked to tickets that involve tracking tasks and managing timelines, which are essential for monitoring progress."
+        "feature": "Data Privacy and User Control",
+        "description": "This user story focuses on user control over personal data and compliance with data protection laws, which aligns with the ticket on implementing data privacy and security measures."
     },
     {
         "user_story": "US2",
         "related_tickets": [
-            "TICKET15",
-            "TICKET23"
+            "ALF-101"
         ],
-        "feature": "Project Timeline Creation and Task Management",
-        "description": "This user story is related to the creation of project timelines and task management, which aligns with the features defined in the linked tickets."
+        "feature": "Voice Interaction for Commands",
+        "description": "This user story emphasizes the need for speech interaction, which is directly related to the ticket that implements voice commands for ALFRED."
     },
     {
         "user_story": "US3",
-        "related_tickets": [],
-        "feature": "Advanced Data Analysis",
-        "description": "This user story does not have a direct link to any existing tickets, as it focuses on data analysis for lecturers, which is not covered by current tickets."
+        "related_tickets": [
+            "ALF-501"
+        ],
+        "feature": "Accessibility Features",
+        "description": "This user story about voice activation control relates to the ticket that ensures accessibility for users with vision or hearing impairments."
     },
     {
         "user_story": "US4",
         "related_tickets": [
-            "TICKET12"
+            "ALF-501"
         ],
-        "feature": "Personal Notes Creation",
-        "description": "This user story is linked to the ticket that covers the creation of personal notes, which is a core functionality of the application."
+        "feature": "Accessibility Customization",
+        "description": "This user story focuses on customizing the ALFRED device for users with visual or hearing impairments, which is aligned with the ticket on ensuring accessibility."
     },
     {
         "user_story": "US5",
         "related_tickets": [
-            "TICKET13"
+            "ALF-302"
         ],
-        "feature": "Item Categorization",
-        "description": "This user story is related to the categorization of notes, which is defined in the linked ticket."
+        "feature": "Emergency Response Features",
+        "description": "This user story about contacting help in emergencies is related to the ticket that implements fall detection and alerts."
     },
     {
         "user_story": "US6",
         "related_tickets": [
-            "TICKET11"
+            "ALF-303"
         ],
-        "feature": "Task Addition to Journal",
-        "description": "This user story is linked to the ticket that involves adding tasks to the journal, which is essential for tracking schedules."
+        "feature": "Medication Reminder System",
+        "description": "This user story about medicine reminders is directly related to the ticket that creates a system for medication reminders and tracking."
     },
     {
         "user_story": "US7",
         "related_tickets": [
-            "TICKET10"
+            "ALF-302"
         ],
-        "feature": "Lecture and Assignment Schedule Management",
-        "description": "This user story is linked to the ticket that covers managing schedules for multiple courses, which is crucial for lecturers."
+        "feature": "Fall Detection and Alerts",
+        "description": "This user story about detecting falls and sending alerts is directly related to the ticket that implements fall detection and emergency response features."
     },
     {
         "user_story": "US8",
-        "related_tickets": [],
-        "feature": "Task and Notes Timeline View",
-        "description": "This user story does not have a direct link to any existing tickets, as it focuses on providing a timeline view for tasks and notes."
+        "related_tickets": [
+            "ALF-202"
+        ],
+        "feature": "Communication with Contacts",
+        "description": "This user story about communicating with friends and family is related to the ticket that facilitates communication with contacts."
     },
     {
         "user_story": "US9",
         "related_tickets": [
-            "TICKET18"
+            "ALF-301"
         ],
-        "feature": "Search for Notes with Customizable Filters",
-        "description": "This user story is linked to the ticket that covers the search functionality for notes, which enhances accessibility."
+        "feature": "Heart Rate Monitoring",
+        "description": "This user story about monitoring heart rate is directly related to the ticket that enables ALFRED to collect and share vital signs from wearable sensors."
     },
     {
         "user_story": "US10",
         "related_tickets": [],
-        "feature": "Profile Customization with Rewards",
-        "description": "This user story does not have a direct link to any existing tickets, as it focuses on customizing profiles with rewards."
+        "feature": "API Documentation",
+        "description": "This user story does not fit into any existing group as it focuses on API documentation, which is not covered by the current tickets."
     }
 ]

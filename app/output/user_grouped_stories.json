@@ -1,0 +1,50 @@
+[
+  {
+    "group_name": "Personal user data management",
+    "user_stories": ["US1"],
+    "feature": "Data Privacy and User Control",
+    "description": "Users have total control over their personal data, including sharing and deletion options."
+  },
+  {
+    "group_name": "Speech interation and accessibility",
+    "user_stories": ["US2", "US3"],
+    "feature": "Speech recognition system",
+    "description": "Recognizes and response to user commands, including voice activation, push-to-talk, wake-word activation. Ensure the system responds to the user's voice when asked."
+  },
+  {
+    "group_name": "Assibility for visual and hearing impairments",
+    "user_stories": ["US4"],
+    "feature": "Accessibility features, design guidelines, and best practices",
+    "description": "Customizable settings for users with visual or hearing impairments, including text-to-speech, speech-to-text, contrast adjustment, tactile sensory control & feedback, visual indicator options."
+  },
+  {
+    "group_name": "Emergency response features",
+    "user_stories": ["US5", "US7"],
+    "feature": "Emergency response system",
+    "description": "Directly contact emergency services or family members in case of an emergency, including fall detection and alerting caregivers. User can contact help directly with a panic button, or the system can uses its sensors to detect an emergency and trigger an alert - in the latter case, user can cancel the call if they don't need help. Include voice activation. The system must log the emergency event and the response taken."
+  },
+  {
+    "group_name": "Medication management",
+    "user_stories": ["US6"],
+    "feature": "Medication reminders",
+    "description": "Reminders for medication intake, including dosage and schedule. Reminders should be sent to user via sound, voice alerts, SMS, push notification - based on user preference. Should include a log of medication intake and missed doses."
+  },
+  {
+    "group_name": "Communication with family and friends",
+    "user_stories": ["US8"],
+    "feature": "Communication system",
+    "description": "Ease of communication with family and friends, including video calls, voice calls, and messaging. The system should include a contact list, call history, and message history. Ensure ease of use for older users and users with impairments. Tutorials and help options should be available."
+  },
+  {
+    "group_name": "Health monitoring",
+    "user_stories": ["US9"],
+    "feature": "Measuring and monitoring health metrics",
+    "description": "The system is equipped with sensors to measure and monitor health metrics, including heart rate. The system should include a log of health metrics and alerts for abnormal readings. Caregivers should be able to access the health data remotely. The system should include a feature to alert caregivers in case of an emergency. The data are managed by the user."
+  },
+  {
+    "group_name": "Developer usability",
+    "user_stories": ["US10"],
+    "feature": "Developer usability and documentation",
+    "description": "The system should be easy to use for developers, including clear documentation for APIs. The system should include a developer portal with tutorials and examples, improving development experience."
+  }
+]

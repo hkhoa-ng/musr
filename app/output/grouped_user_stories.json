@@ -1,40 +1,68 @@
 [
     {
-        "group_name": "Project Management and Task Tracking",
+        "group_name": "Data Privacy and User Control",
         "user_stories": [
-            "US1",
-            "US2",
-            "US6",
-            "US7",
+            "US1"
+        ],
+        "feature": "User control over personal data and transparency.",
+        "details": "This story focuses on ensuring that older users understand how their personal data is used and have control over it, which is crucial for building trust in the ALFRED system."
+    },
+    {
+        "group_name": "Speech Interaction",
+        "user_stories": [
+            "US2"
+        ],
+        "feature": "Speech interaction capabilities for older users.",
+        "details": "This story enhances the usability of ALFRED through speech interaction, allowing older users to engage with the system more easily."
+    },
+    {
+        "group_name": "Accessibility Features",
+        "user_stories": [
+            "US3",
+            "US4"
+        ],
+        "feature": "Accessibility adaptations for users with visual or hearing impairments.",
+        "details": "These stories focus on making the ALFRED device usable for individuals with sensory impairments, ensuring inclusivity."
+    },
+    {
+        "group_name": "Emergency Response Features",
+        "user_stories": [
+            "US5",
+            "US7"
+        ],
+        "feature": "Emergency communication and fall detection.",
+        "details": "These stories are related to ensuring user safety through emergency alerts and fall detection, providing critical support for older users in distress."
+    },
+    {
+        "group_name": "Medication Management",
+        "user_stories": [
+            "US6"
+        ],
+        "feature": "Medicine reminder functionality.",
+        "details": "This story focuses on helping older users manage their medication schedules effectively, which is essential for their health and well-being."
+    },
+    {
+        "group_name": "Communication Features",
+        "user_stories": [
             "US8"
         ],
-        "feature": "All stories related to managing projects, tracking tasks, and scheduling.",
-        "details": "These stories are grouped together as they all focus on functionalities that help users manage their tasks and projects effectively, including creating timelines, tracking progress, and scheduling lectures."
+        "feature": "Communication capabilities for social connectivity.",
+        "details": "This story emphasizes the importance of maintaining social connections for older users through easy communication with friends and family."
     },
     {
-        "group_name": "Note Management and Organization",
+        "group_name": "Health Monitoring for Caregivers",
         "user_stories": [
-            "US4",
-            "US5",
             "US9"
         ],
-        "feature": "All stories related to creating, categorizing, and searching notes.",
-        "details": "These stories are grouped together as they focus on functionalities that enhance the organization and retrieval of notes, allowing users to create personal notes, categorize them, and search efficiently."
+        "feature": "Heart rate monitoring for health management.",
+        "details": "This story is focused on providing caregivers with the necessary tools to monitor the health of older users effectively, ensuring timely interventions."
     },
     {
-        "group_name": "Advanced Data Analysis",
-        "user_stories": [
-            "US3"
-        ],
-        "feature": "Advanced data analysis for lecturers to monitor productivity and engagement.",
-        "details": "This story stands alone as it focuses on providing advanced data analysis capabilities specifically for lecturers, which is distinct from the other user stories."
-    },
-    {
-        "group_name": "Profile Customization and Gamification",
+        "group_name": "API Documentation for Developers",
         "user_stories": [
             "US10"
         ],
-        "feature": "Customization of user profiles with gamification elements.",
-        "details": "This story is focused on allowing users to customize their profiles with rewards, which ties into the gamification strategy to enhance user engagement."
+        "feature": "Well-defined and documented API for integration.",
+        "details": "This story is aimed at ensuring that developers have the resources needed to effectively integrate and utilize the ALFRED system."
     }
 ]

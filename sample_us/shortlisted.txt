@@ -1,0 +1,10 @@
+- As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission.
+- As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.
+- As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to (e.g. by pushing a button).
+- As an OlderPerson, I want to have an ALFRED device that can be easily adapted for users that have visual or hearing troubles.
+- As an OlderPerson, I want to use ALFRED to contact help in case of an emergency.
+- As an OlderPerson, I want to receive a medicine reminder from ALFRED.
+- As an OlderPerson, I want to have ALFRED to detect falls and send an emergency to a specific contact.
+- As an OlderPerson, I want to use ALFRED to communicate with my friends and family.
+- As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's heart rate.
+- As a developer, I want to have the ALFRED API to be well defined and well documented.
