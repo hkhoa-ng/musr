@@ -1,0 +1,13 @@
+langgraph
+pypdf
+langchain
+pytest
+boto3
+langchain_community
+colorama
+openai
+customtkinter
+langchain_chroma
+langchain_openai
+colorama
+python_dotenv

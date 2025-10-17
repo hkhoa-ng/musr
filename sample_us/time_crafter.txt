@@ -1,0 +1,70 @@
+1. AS a student, I WANT TO track the progress of my tasks SO THAT I can keep track of my work progress
+User story analysis
+      User can create personal notes that contain their tasks
+      User can keep track of their tasks through these notes - task description, task due date, and task detail
+      Tasks can be placed on a timeline/calendar User can view their progress on a higher level through this timeline - how many % of a big task is done, or what needs to be done in order for the task to be completed
+This user story is analyzed and defined into 2 smaller features:
+#16 (closed) creates a timeline for the user to assign their tasks into
+#17 (closed) enables user to create personal notes and other kind of tasks
+#23 (closed) Feature: Tracking tasks progress
+ 
+2. AS a freelance graphic designer, I WANT TO create a project timeline SO THAT I can stay on top of deadlines
+Acceptance criteria:
+ The user can create a new project timeline   
+ The user can add tasks to the timeline with due dates/priorities/notes for each task   
+ The user can break down the project into smaller tasks or milestones.   
+
+This user story is analyzed and defined into 2 smaller features:
+#16 (closed) Feature: Timeline/calendar
+#23 (closed) Feature: Tracking tasks progress
+
+3. AS a lecturer, I WANT TO perform advanced data analysis SO THAT I can monitor my productivity, student engagement.
+Acceptance criteria:      
+ The user can perform data analysis based on events that happened in a defined period.   
+ Access to relevant data sources, including lecture attendance records, assignment grades, student participation logs, etc.   
+ Implement advanced data analysis algorithms or tools capable of processing large datasets.   
+ Generate comprehensive reports on lecturer productivity metrics, such as time spent on lecture preparation, grading, and student interaction.   
+ Visualize data analysis results using charts, graphs, or dashboards for easy interpretation.   
+This user story will be analyzed later due to low priority
+
+4. AS A student, I WANT TO note down my ideas SO THAT I can brainstorm using the notes
+Acceptance criteria:      
+ The user is able to create and manage notes.   
+ Enable quick search functionality to find specific notes or ideas.   
+ Ensure data security and privacy measures to protect sensitive information.   
+The user story is analyzed and defined into this feature:
+#17 (closed) Feature: Create personal notes
+
+
+5. AS a student, I WANT TO create different categories, SO THAT I can categorize my notes
+Acceptance criteria:
+ The user can define different "categories" (e.g., study, work)   
+ The user can assign their notes to the category they want   
+ Each note can belong to multiple different categories   
+ The product has a function to link categories   
+ The product has a global search/filter/sort function to find notes by name/date/topic/etc.   
+
+This user story is analyzed and defined into this feature:
+#19 Feature: Item categorization
+
+6. AS A student, I WANT TO add my own task into the journal, SO THAT I can track my weekly schedule
+ The product has a function to add individual tasks as todo/schedule items   
+ Product has a timeline/calendar. Can work in a daily/weekly/monthly manner   
+ Product's tasks can be placed onto the timeline         
+ The tasks can be toggle between different states (todo, doing, done)
+
+7. AS a lecturer, I WANT TO plan and manage my lectures/assignments schedule for multiple courses SO THAT I can ensure a smooth academic semester
+Acceptance criteria:
+ Ability to create and manage schedules for multiple courses within the same platform.   
+ Input options for course details such as course name, code, and description.   
+ Capability to add lecture dates, times, topics, and locations for each course.   
+ Notifications or reminders for upcoming lectures and assignment deadlines.   
+This user story is analyzed and defined into these features:
+#5 Feature: Scheduling
+#16 (closed) Feature: Timeline/calendar
+#23 (closed) Feature: Tracking tasks progress
+ 
+--- ADDITIONAL ---
+8. AS a student, I WANT TO to view my tasks and notes in a timeline SO THAT I know what to do each day
+9. AS a student, I WANT TO easily search for my notes with customizable filters SO THAT I can find what I need to
+10. AS a student, I WANT TO customize my profile with rewards from completing tasks SO THAT I can stand out from other users

@@ -1,0 +1,78 @@
+[
+    {
+        "user_story": "US1",
+        "related_tickets": [
+            "TICKET22",
+            "TICKET23"
+        ],
+        "feature": "Task Progress Tracking and Timeline Management",
+        "description": "This user story is linked to tickets that involve tracking tasks and managing timelines, which are essential for monitoring progress."
+    },
+    {
+        "user_story": "US2",
+        "related_tickets": [
+            "TICKET15",
+            "TICKET23"
+        ],
+        "feature": "Project Timeline Creation and Task Management",
+        "description": "This user story is related to the creation of project timelines and task management, which aligns with the features defined in the linked tickets."
+    },
+    {
+        "user_story": "US3",
+        "related_tickets": [],
+        "feature": "Advanced Data Analysis",
+        "description": "This user story does not have a direct link to any existing tickets, as it focuses on data analysis for lecturers, which is not covered by current tickets."
+    },
+    {
+        "user_story": "US4",
+        "related_tickets": [
+            "TICKET12"
+        ],
+        "feature": "Personal Notes Creation",
+        "description": "This user story is linked to the ticket that covers the creation of personal notes, which is a core functionality of the application."
+    },
+    {
+        "user_story": "US5",
+        "related_tickets": [
+            "TICKET13"
+        ],
+        "feature": "Item Categorization",
+        "description": "This user story is related to the categorization of notes, which is defined in the linked ticket."
+    },
+    {
+        "user_story": "US6",
+        "related_tickets": [
+            "TICKET11"
+        ],
+        "feature": "Task Addition to Journal",
+        "description": "This user story is linked to the ticket that involves adding tasks to the journal, which is essential for tracking schedules."
+    },
+    {
+        "user_story": "US7",
+        "related_tickets": [
+            "TICKET10"
+        ],
+        "feature": "Lecture and Assignment Schedule Management",
+        "description": "This user story is linked to the ticket that covers managing schedules for multiple courses, which is crucial for lecturers."
+    },
+    {
+        "user_story": "US8",
+        "related_tickets": [],
+        "feature": "Task and Notes Timeline View",
+        "description": "This user story does not have a direct link to any existing tickets, as it focuses on providing a timeline view for tasks and notes."
+    },
+    {
+        "user_story": "US9",
+        "related_tickets": [
+            "TICKET18"
+        ],
+        "feature": "Search for Notes with Customizable Filters",
+        "description": "This user story is linked to the ticket that covers the search functionality for notes, which enhances accessibility."
+    },
+    {
+        "user_story": "US10",
+        "related_tickets": [],
+        "feature": "Profile Customization with Rewards",
+        "description": "This user story does not have a direct link to any existing tickets, as it focuses on customizing profiles with rewards."
+    }
+]

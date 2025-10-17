@@ -1,0 +1,40 @@
+[
+    {
+        "group_name": "Project Management and Task Tracking",
+        "user_stories": [
+            "US1",
+            "US2",
+            "US6",
+            "US7",
+            "US8"
+        ],
+        "feature": "All stories related to managing projects, tracking tasks, and scheduling.",
+        "details": "These stories are grouped together as they all focus on functionalities that help users manage their tasks and projects effectively, including creating timelines, tracking progress, and scheduling lectures."
+    },
+    {
+        "group_name": "Note Management and Organization",
+        "user_stories": [
+            "US4",
+            "US5",
+            "US9"
+        ],
+        "feature": "All stories related to creating, categorizing, and searching notes.",
+        "details": "These stories are grouped together as they focus on functionalities that enhance the organization and retrieval of notes, allowing users to create personal notes, categorize them, and search efficiently."
+    },
+    {
+        "group_name": "Advanced Data Analysis",
+        "user_stories": [
+            "US3"
+        ],
+        "feature": "Advanced data analysis for lecturers to monitor productivity and engagement.",
+        "details": "This story stands alone as it focuses on providing advanced data analysis capabilities specifically for lecturers, which is distinct from the other user stories."
+    },
+    {
+        "group_name": "Profile Customization and Gamification",
+        "user_stories": [
+            "US10"
+        ],
+        "feature": "Customization of user profiles with gamification elements.",
+        "details": "This story is focused on allowing users to customize their profiles with rewards, which ties into the gamification strategy to enhance user engagement."
+    }
+]
