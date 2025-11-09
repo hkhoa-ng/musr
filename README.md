@@ -24,4 +24,6 @@
 
 - All the data provided for the RAG should be provided in PDF format, and put into the `/app/data/` directory. I've put some samples in there from our university project
 - The system's output is in the `/app/output/` folder
-- I have some sample original user stories from the project, and those are inside `/app/sample_us/`, feel free to use them to get familiar with the tool, before using your own dataset
+- The datasets are included in the Excel files of each corresponding branch, `TimeCrafter Dataset.xlsx` and `ALFRED Dataset.xlsx`. These files include the same sheets, which contain the original user stories, the issue tickets, the improved user stories grouping and linking, experts semantic ratings (with mean and standard deviation for criteria), and K-alpha calculation results.
+- The improved user stories are included as PDF files in each branch, namely `TimeCrafter Improved User Stories.pdf` and `AFRED Improved User Stories.pdf`.
+- The Python script, `calculate_k_alpha.py` includes the calculation for K-alpha of the 3 datasets, along with parse data. 
