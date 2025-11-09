@@ -1,3 +1,5 @@
+> Please refer to the *About Data* section for information regarding the datasets used for evaluation
+
 # Instruction for running the Docker container
 
 - Clone this repository.
