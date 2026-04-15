@@ -1,3 +1,5 @@
+# The paper is published! Here's the [offical link](https://doi.org/10.1007/978-3-032-21423-2_7)
+
 > Please refer to the *About Data* section for information regarding the datasets used for evaluation
 
 # Instruction for running the Docker container
